@@ -9,7 +9,7 @@ To do so, we make use of an audio track that plays when the phone rotates to lan
 
 If you recall, I had troubles making the audio resume to where it stopped. So in this section, I will try to describe how the application actually works.
 
-![Process][screenshot.jpg]
+![Process](screenshot.jpg)
 
 The issue came from the following method:
 
